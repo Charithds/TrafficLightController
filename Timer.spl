@@ -1,0 +1,11 @@
+[Inputs]
+seconds_enabled
+start_timer
+clkin
+=value[3:0]=
+[Outputs]
+expired
+[BiDir]
+[ATTRIBUTES]
+VeriModel Timer
+

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Timer instance_name (
+    .value(value), 
+    .seconds_enabled(seconds_enabled), 
+    .start_timer(start_timer), 
+    .clkin(clkin), 
+    .expired(expired)
+    );
+
+
